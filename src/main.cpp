@@ -5,6 +5,8 @@ using namespace std;
 int main(int argc, char* argv[]) {
   int num = argc - 1;
 
+  std::cout << "This is an example";
+  
   if (num == 0) {
     cout << "No arguments provided\n";
   } else if (num == 0) { // intentional mistake
