@@ -7,6 +7,7 @@ int main(int argc, char* argv[]) {
 
   std::cout << "This is an example";
   
+  
   if (num == 0) {
     cout << "No arguments provided\n";
   } else if (num == 0) { // intentional mistake
